@@ -129,7 +129,7 @@ class App extends React.Component {
           addComment={this.addComment.bind(this)}
         />
 
-        <div className='lastline'> Данное приложение создано на React. Оно работает с SessionStorage. Вы можете закрыть вкладку или браузер, сохраненные комментарии останутся в приложении.
+        <div className='lastline'> Данное приложение создано на React. Оно работает с SessionStorage. Вы можете закрыть вкладку или браузер, сохраненные комментарии останутся в приложении...
         </div>
 
       </div>
