@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.wrapper {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: #949494;
+  padding: 50px;
+}
+
+.man {
+  color: blue;
+}
+
+.woman {
+  color: pink;
+}
+
+.lastline {
+  margin: 40px auto;
+  text-align: center;
+  font-size: 13px;
+}
